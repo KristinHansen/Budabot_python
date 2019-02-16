@@ -1,0 +1,57 @@
+<header>The Pyramid loot and tradeskills<end>
+
+<header2>Tokenboard<end>
+<a href='itemref://302916/302916/302916'><img src='rdb://231187'></a><tab>+<tab><a href='itemref://302917/302917/302917'><img src='rdb://231185'></a><tab>=<tab><a href='itemref://302919/302919/302919'><img src='rdb://231189'></a>
+<a href='itemref://302918/302918/302918'><img src='rdb://231189'></a><tab>+<tab><a href='itemref://302919/302919/302919'><img src='rdb://231189'></a><tab>=<tab><a href='itemref://302920/302920/302920'><img src='rdb://261597'></a>
+
+Clan
+<a href='itemref://302920/302920/302920'><img src='rdb://261597'></a><tab>+<tab><a href='itemref://279437/279437/279437'><img src='rdb://82977'></a><tab>=<tab><a href='itemref://302914/302914/302914'><img src='rdb://302887'></a>
+<a href='itemref://302920/302920/302920'><img src='rdb://261597'></a><tab>+<tab><a href='itemref://279436/279436/279436'><img src='rdb://82976'></a><tab>=<tab><a href='itemref://302912/302912/302912'><img src='rdb://302908'></a>
+
+Omni
+<a href='itemref://302920/302920/302920'><img src='rdb://261597'></a><tab>+<tab><a href='itemref://279438/279438/279438'><img src='rdb://82975'></a><tab>=<tab><a href='itemref://302913/302913/302913'><img src='rdb://302911'></a>
+<a href='itemref://302920/302920/302920'><img src='rdb://261597'></a><tab>+<tab><a href='itemref://279441/279441/279441'><img src='rdb://82980'></a><tab>=<tab><a href='itemref://302915/302915/302915'><img src='rdb://302910'></a>
+
+Neut
+<a href='itemref://302920/302920/302920'><img src='rdb://261597'></a><tab>+<tab><a href='itemref://279439/279439/279439'><img src='rdb://279442'></a><tab>=<tab><a href='itemref://302921/302921/302921'><img src='rdb://279442'></a>
+<a href='itemref://302920/302920/302920'><img src='rdb://261597'></a><tab>+<tab><a href='itemref://279440/279440/279440'><img src='rdb://279443'></a><tab>=<tab><a href='itemref://302922/302922/302922'><img src='rdb://279443'></a>
+
+NB: The Awakened Xan Combat/Defense Merit Board <red>CAN NOT<end> be upgrade to sided version.
+
+<header2>Awakened Armor<end>
+NB: <a href='itemref://302932/302932/302932'>Portable Notum Infusion Device</a> is <red>NOT<end> consumed, so only one is needed.
+
+<a href='itemref://302932/302932/302932'><img src='rdb://302888'></a><tab>+<tab><a href='itemref://302926/302926/302926'><img src='rdb://235313'></a><tab>=<tab><a href='itemref://302927/302927/302927'><img src='rdb://234926'></a>
+5x <a href='itemref://302926/302926/302926'>Inert Sigil of Alighieri</a> is needed for a full set (4x will suffice, as it is only required to wear one of the two sleeves to unlock <a href='itemref://302907/302907/302907'>Fountain of Life</a>)
+
+<a href='itemref://302932/302932/302932'><img src='rdb://302888'></a><tab>+<tab><a href='itemref://302928/302928/302928'><img src='rdb://235317'></a><tab>=<tab><a href='itemref://302929/302929/302929'><img src='rdb://235333'></a>
+5x <a href='itemref://302928/302928/302928'>Inert Sigil of Machiavelli</a> is needed for a full set (4x will suffice, as it is not required to wear the <a href='itemref://244750/244750/244750'>Sigil of Samael</a> to unlock <a href='itemref://302907/302907/302907'>Fountain of Life</a>)
+
+<a href='itemref://302927/302927/302927'><img src='rdb://234926'></a><tab>+<tab><a href='itemref://244705/244705/244705'><img src='rdb://245029'></a><tab>=<tab><a href='itemref://302723/302723/302723'><img src='rdb://302951'></a>
+<a href='itemref://302927/302927/302927'><img src='rdb://234926'></a><tab>+<tab><a href='itemref://244712/244712/244712'><img src='rdb://245029'></a><tab>=<tab><a href='itemref://302724/302724/302724'><img src='rdb://302967'></a>
+<a href='itemref://302927/302927/302927'><img src='rdb://234926'></a><tab>+<tab><a href='itemref://244704/244704/244704'><img src='rdb://245033'></a><tab>=<tab><a href='itemref://302722/302722/302722'><img src='rdb://302955'></a>
+<a href='itemref://302927/302927/302927'><img src='rdb://234926'></a><tab>+<tab><a href='itemref://244715/244715/244715'><img src='rdb://245035'></a><tab>=<tab><a href='itemref://302727/302727/302727'><img src='rdb://302957'></a>
+<a href='itemref://302927/302927/302927'><img src='rdb://234926'></a><tab>+<tab><a href='itemref://244714/244714/244714'><img src='rdb://245032'></a><tab>=<tab><a href='itemref://302726/302726/302726'><img src='rdb://302954'></a>
+
+<a href='itemref://302929/302929/302929'><img src='rdb://235333'></a><tab>+<tab><a href='itemref://244750/244750/244750'><img src='rdb://131259'></a><tab>=<tab><a href='itemref://302731/302731/302731'><img src='rdb://131259'></a>
+<a href='itemref://302929/302929/302929'><img src='rdb://235333'></a><tab>+<tab><a href='itemref://244718/244718/244718'><img src='rdb://245030'></a><tab>=<tab><a href='itemref://302730/302730/302730'><img src='rdb://302952'></a>
+<a href='itemref://302929/302929/302929'><img src='rdb://235333'></a><tab>+<tab><a href='itemref://244713/244713/244713'><img src='rdb://245036'></a><tab>=<tab><a href='itemref://302725/302725/302725'><img src='rdb://302958'></a>
+<a href='itemref://302929/302929/302929'><img src='rdb://235333'></a><tab>+<tab><a href='itemref://244716/244716/244716'><img src='rdb://245034'></a><tab>=<tab><a href='itemref://302728/302728/302728'><img src='rdb://302956'></a>
+<a href='itemref://302929/302929/302929'><img src='rdb://235333'></a><tab>+<tab><a href='itemref://244717/244717/244717'><img src='rdb://245031'></a><tab>=<tab><a href='itemref://302729/302729/302729'><img src='rdb://302953'></a>
+
+<header2>Fountain of Life Perk<end>
+<a href='itemref://302907/302907/302907'>Fountain of Life</a> will be available to use if a full set of Awakened Armor is worn.
+
+The following setup will qualify as a "full set" worn:
+<highlight>Helmet, Chest, Gloves, Shoulder, Back, Legs, Boots<end> and one of the following: <highlight>Ranged Sleeve or Melee Sleeve<end>
+
+<a href='itemref://244750/244750/244750'>Sigil of Samael</a> is <red>NOT REQUIRED<end> to qualify for the "full set" bonus
+
+To unlock the perk, you must right-click <a href='itemref://244718/244718/244718'>Awakened Burden of Competence</a>
+
+NB: <a href='itemref://302907/302907/302907'>Fountain of Life</a> can't be looked up in this guide, before it has been unlocked by right-clicking <a href='itemref://244718/244718/244718'>Awakened Burden of Competence</a> (this can be done as soon as you have the armor piece). <a href='itemref://302907/302907/302907'>Fountain of Life</a> will be available from the "Programs"-window under "Medical".
+
+<header2>Utilities<end>
+Has a chance to drop from any of the PoH bosses
+
+<a href='itemref://302923/302923/302923'><img src='rdb://244361'></a><tab><a href='itemref://302924/302924/302924'><img src='rdb://244359'></a><tab><a href='itemref://302925/302925/302925'><img src='rdb://244360'></a><tab><a href='itemref://302930/302930/302930'><img src='rdb://160725'></a><tab><a href='itemref://302931/302931/302931'><img src='rdb://160723'></a>
